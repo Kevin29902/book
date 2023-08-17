@@ -41,7 +41,7 @@ export default function SimpleCard() {
               USER
             </Typography>
             <Typography variant="h5" component="h2">
-              Nisarg
+              Kevin
             </Typography>
             <Typography className={classes.pos} color="textSecondary">
               student
